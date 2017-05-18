@@ -1,5 +1,5 @@
 # Lab_6.2
-LSTM Language Model 'unofessicoyed' <br/><br/>
+Tensorflow II LSTM Language Model 'unofessicoyed' <br/><br/>
 Q1:<br/> 
 - model.ckpt.data-00000-of-00001 <br/>
 - model.ckpt.index <br/>
